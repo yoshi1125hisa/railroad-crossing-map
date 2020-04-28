@@ -66,7 +66,7 @@
     "glob": "7.1.4",
     "interpret": "1.2.0",
     "ip": "1.1.5",
-    "react-dev-utils": "9.0.3",
+    "react-dev-utils": "10.2.1",
     "rechoir": "0.7.0",
     "source-map-support": "0.5.13",
     "webpack": "4.39.3",
